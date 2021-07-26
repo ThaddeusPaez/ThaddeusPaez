@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThaddeusPaez
+- 👀 I’m interested in Data Science, Machine Learning, Medical Physics, Cognitive Science.
+- 🌱 I’m currently learning Azure ML
+- 💞️ I’m looking to collaborate on Machine Learning Engineering
+- 📫 https://www.linkedin.com/in/thaddeuspaez/
